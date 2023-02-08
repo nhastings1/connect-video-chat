@@ -3,6 +3,8 @@
 ### A very imple to use video chat app.
 ### Just enter your name and invite friends via link and you are good to go!
 
+# Screenshots
+![IMG](./Name-Login.png)
 ![IMG](./video-chat.png)
 
 # Check out the live demo: [Connect Video Chat App](https://connect-video-app-chat.herokuapp.com/c59b8d47-07fd-47c8-831c-1bc38e669130)
