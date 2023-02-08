@@ -5,7 +5,7 @@
 
 ![IMG](./video-chat.png)
 
-Check out the live demo: 
+# Check out the live demo: [Connect Video Chat App](https://connect-video-app-chat.herokuapp.com/c59b8d47-07fd-47c8-831c-1bc38e669130)
 
 
 # Launguages and Frameworks used
@@ -29,7 +29,7 @@ Check out the live demo:
 
 * Anyone can clone the repository and use it to continute to create their own version of the app with a React frontend and other features.
 
-## Author
+## Author | Developer
 
 - [Nick Hastings](https://nhastings1.github.io/Nick-Hastings-React-Portfolio/)
 
